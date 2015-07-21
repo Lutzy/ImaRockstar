@@ -1,1 +1,1 @@
-86cf8c68-2fcb-11e5-814b-08002729f801
+System.out.println("Hello world");
